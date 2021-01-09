@@ -1,4 +1,4 @@
-# TRVL - React Travel Site 🍿
+# TRVL - React Travel Site
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/tylertlai?style=social)
 
